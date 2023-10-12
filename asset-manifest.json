@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NexGenGloveProject/static/css/main.9da12ada.css",
+    "main.js": "/NexGenGloveProject/static/js/main.274fe7ad.js",
+    "static/js/787.9b0f7abd.chunk.js": "/NexGenGloveProject/static/js/787.9b0f7abd.chunk.js",
+    "static/media/hand.PNG": "/NexGenGloveProject/static/media/hand.37d4aaf19c5a7536c37a.PNG",
+    "index.html": "/NexGenGloveProject/index.html",
+    "main.9da12ada.css.map": "/NexGenGloveProject/static/css/main.9da12ada.css.map",
+    "main.274fe7ad.js.map": "/NexGenGloveProject/static/js/main.274fe7ad.js.map",
+    "787.9b0f7abd.chunk.js.map": "/NexGenGloveProject/static/js/787.9b0f7abd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da12ada.css",
+    "static/js/main.274fe7ad.js"
+  ]
+}
